@@ -23,7 +23,7 @@
     color:crimson;
 }
 table,th,td{
-    border: 1px green;
+    border: 1px solid blue;
     border-collapse: collapse;
     border-color: red;
     text-align: center;
