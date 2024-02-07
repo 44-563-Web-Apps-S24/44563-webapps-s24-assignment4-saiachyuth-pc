@@ -22,3 +22,11 @@
 .FERAPONT{
     color:crimson;
 }
+table,th,td{
+    border: 1px green;
+    border-collapse: collapse;
+    border-color: red;
+    text-align: center;
+    padding: 10px;
+    margin: 1px;
+}
