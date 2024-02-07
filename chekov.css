@@ -25,8 +25,20 @@
 .VERSHININ{
     color:darkgoldenrod;
 }
+.VERSHININ:hover{
+    text-shadow: 3px 3px orange;
+    filter:blur(00.25px);
+    border:1px solid grey;
+    width: fit-content;
+}
 .MASHA{
     color:fuchsia;
+}
+.MASHA:hover{
+    text-shadow: 3px 3px violet;
+    filter:blur(00.25px);
+    border:1px solid black;
+    width: fit-content; 
 }
 table,th,td{
     border: 1px solid blue;
