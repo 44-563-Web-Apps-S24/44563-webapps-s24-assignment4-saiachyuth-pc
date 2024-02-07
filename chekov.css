@@ -1,0 +1,24 @@
+.Speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large;
+    color: #000;
+}
+.Direction{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    background-color: aqua;
+}
+.Direction.hover{
+    background-color: blue;
+    color: #000;
+}
+.ANDREY{
+    color:chartreuse;
+}
+
+.NATASHA{
+    color:brown;
+}
+.FERAPONT{
+    color:crimson;
+}
