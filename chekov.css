@@ -22,6 +22,12 @@
 .FERAPONT{
     color:crimson;
 }
+.VERSHININ{
+    color:darkgoldenrod;
+}
+.MASHA{
+    color:fuchsia;
+}
 table,th,td{
     border: 1px solid blue;
     border-collapse: collapse;
